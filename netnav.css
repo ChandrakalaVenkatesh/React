@@ -1,0 +1,27 @@
+.navblock{
+    background-color: darkolivegreen;
+    height: 75px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+img{
+    height: 50px;
+    width: 200px;
+    padding: 10px;
+
+}
+.contentblock{
+    display: flex;
+    list-style: none;
+    width: 300px;
+}
+.contentblock li{
+    color: antiquewhite;
+    align-items: center;
+    text-decoration: none;
+}
+.mainblock{
+    height: 120px;
+}
