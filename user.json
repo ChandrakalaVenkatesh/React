@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Gagana",
+        "USN":"4PS16EC006",
+        "Branch":"Electronics and Communication",
+        "YOP":2020,
+        "CGPA":8.42,
+        "PHONE":[88012323,99034567],
+        "Picture":"https://qph.cf2.quoracdn.net/main-qimg-681f95d4720439e96f1e3f52b912494f-lq"
+    },
+    {
+        "Name": "Kavitha",
+        "USN":"4PS16CS006",
+        "Branch":"Computer Science",
+        "YOP":2019,
+        "CGPA":8.90,
+        "PHONE":[880125678,9903123456],
+        "Picture":"https://images.saymedia-content.com/.image/t_share/MTc1MTE0NTkzNjkyMTAwNDIw/top-10-most-successful-beautiful-korean-drama-actresses.jpg" 
+    },
+    {
+        "Name": "Samruddhi",
+        "USN":"4PS16CV006",
+        "Branch":"Civil",
+        "YOP":2021,
+        "CGPA":9.42,
+        "PHONE":[880189000,890123567],
+        "Picture":"https://images.saymedia-content.com/.image/t_share/MTc2MjQ0MTY2ODcwMzEyMzYx/top-10-cutest-korean-drama-actresses-ever.jpg"
+    },
+    {
+        "Name": "Pravisht",
+        "USN":"4PS16ME006",
+        "Branch":"Mechanical",
+        "YOP":2018,
+        "CGPA":9.02,
+        "PHONE":[99992323,874532567],
+        "Picture":"https://upload.wikimedia.org/wikipedia/commons/2/2e/140120_Minho_Lee_b.jpg"
+    }
+]
